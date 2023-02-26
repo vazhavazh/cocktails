@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "cocktails",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://cldblz.github.io/cocktails",
+  "homepage": "https://vazhavazh.github.io/cocktails",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /cocktails/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cldblz/cocktails.git"
+    "url": "git+https://github.com/vazhavazh/cocktails.git"
   },
   "keywords": [],
-  "author": "Volodymyr Kushnir <cloudyshogun@gmail.com>",
+
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/vazhavazh/cocktails/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
